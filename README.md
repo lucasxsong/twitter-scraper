@@ -1,5 +1,4 @@
 # twitter-scraper
-need to scrape tweets
 
 ## useful links 
 
