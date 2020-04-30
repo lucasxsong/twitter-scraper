@@ -4,11 +4,9 @@
 
 Before set up, we need to install a few dependencies that this project uses.
 
-Jupyter Notebook
-`pip install notebook`
+**Jupyter Notebook** - `pip install notebook`
 
-Tweepy
-`pip install tweepy`
+**Tweepy** - `pip install tweepy`
 
 After installing dependencies, follow the next steps to properly run the code.
 
@@ -23,11 +21,14 @@ After installing dependencies, follow the next steps to properly run the code.
 
 ## configuration
 
-Most of the configured variables already have comments describing their use.Most of these variables are inside `##### INITIALIZATION #####` block. 
+Here are a description of some of the variables that help change the functionality of the streamer. 
 
 **filesize**: determines how big the individual files will be
+
 **numfiles**: determines how many files you will write 
+
 **ofilename**: determines the naming scheme of the files that will be written
+
 **l**: determines the area where the streamlistener will be looking for tweets
 
 ## useful links 
