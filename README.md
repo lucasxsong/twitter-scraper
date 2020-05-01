@@ -52,4 +52,13 @@ Erik:
 
     Access token secret:
     bZwLTNDAfvtYYhPhDuJl5prY61sTo6XWGk8ZNT5FLgrvy
+    
+Kiet:
+    API keys = 14t5dj2XpJntlmUJSaSosD1AH
+    API secret key = zkWoqA6xp02hg1IeNUwL2AKASYEb6p2gGkGfOPDrPNbJRInP9L
+    
+    Access Token = 2462026471-CN6KCwnwfWQ08xkhh1he4kdFnXvZeGAagQf3rDJ
+    Access Token Secret = TrgSehJEMMCGwp48aIoAkOsQ57h8LLJoqsxlnQG8cRVNM
+
+
 
