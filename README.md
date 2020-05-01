@@ -40,6 +40,7 @@ Here are a description of some of the variables that help change the functionali
 ## Available APIs For Use
 
 Erik:
+
     API key:
     AWNw8Ante1PdYZNW8EpScYoit
 
