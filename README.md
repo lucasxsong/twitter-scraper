@@ -34,3 +34,21 @@ Here are a description of some of the variables that help change the functionali
 ## useful links 
 
 - [hiding api keys](https://towardsdatascience.com/how-to-hide-your-api-keys-in-python-fb2e1a61b0a0)
+
+
+
+## Available APIs For Use
+
+Erik:
+    API key:
+    AWNw8Ante1PdYZNW8EpScYoit
+
+    API secret key:
+    VX5vZ9GbCNPF677YJL5IhcjjE4ND0NcXmXjpou4mjqfKBUYtKf
+
+    Access token:
+    2842012114-JFEgl6EeEELhnPI3fs8XmmVPCw35IKE0u5nFced
+
+    Access token secret:
+    bZwLTNDAfvtYYhPhDuJl5prY61sTo6XWGk8ZNT5FLgrvy
+
