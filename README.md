@@ -39,7 +39,7 @@ Here are a description of some of the variables that help change the functionali
 
 ## Available APIs For Use
 
-Erik: ** in use by Erik**
+Erik: 
 
     API key:
     AWNw8Ante1PdYZNW8EpScYoit
@@ -53,7 +53,7 @@ Erik: ** in use by Erik**
     Access token secret:
     bZwLTNDAfvtYYhPhDuJl5prY61sTo6XWGk8ZNT5FLgrvy
     
-Kiet: ** in use by Kiet **
+Kiet: **in use by Erik**
     
     API keys = 14t5dj2XpJntlmUJSaSosD1AH
     API secret key = zkWoqA6xp02hg1IeNUwL2AKASYEb6p2gGkGfOPDrPNbJRInP9L
