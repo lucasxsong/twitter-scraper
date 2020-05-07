@@ -71,7 +71,7 @@ access_token_secret = "hg7VSVaGGtHyhWAUTnY37GyZe5l2g3QPOxjLfDNSSejY8"
 
 ### tl;dr
 
-Get into your tweet directory (`os.chdir`). Change output directory (`odir`). Make sure your tweet files end in a complete tweet.
+**Make sure your tweet files end in a complete tweet.** Change into your tweet directory (`os.chdir`). Change output directory (`odir`). 
 
 ### Preprocessing
 
