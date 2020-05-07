@@ -1,5 +1,3 @@
-# twitter-scraper
-
 ## dependencies
 
 Before set up, we need to install a few dependencies that this project uses.
@@ -80,9 +78,9 @@ Get into your tweet directory (`os.chdir`). Change output directory (`odir`). Ma
 **IMPORTANT** Make sure that all the files that will be scraping from are complete. The last tweet should have have successfully written, closing with something like `"symbols": []}}]}`. If the last tweet in a file is not complete, delete it. Otherwise, we will not be able to read the file in as a json.
 
 
-```
-{"tweet": [{"created_at": "Thu Apr 30 04:30:44 +0000 2020", "text": "@Doiran3 But the unemployment checks are juicy", "user": {"id": 389945480, "id_str": "389945480", "name": "Hawks\u2615\ufe0f\ud83d\udd1bTTV", "screen_name": "TheAdamHawk", "location": "Pitt\u2708\ufe0fLA / Subscribe \u2b07\ufe0f", "url": "https://www.youtube.com/nerdybit?sub_confirmation=1", "description": "I'm an Idea Guy. Internet Personality. Coffee Addict. \ud83d\udc31 Cant Sleep? Get In here http://twitch.tv/theadamhawk \ud83d\udc31 @MLC_Gaming_", "translator_type": "none", "protected": false, "verified
-```
+    ```
+    {"tweet": [{"created_at": "Thu Apr 30 04:30:44 +0000 2020", "text": "@Doiran3 But the unemployment checks are juicy", "user": {"id": 389945480, "id_str": "389945480", "name": "Hawks\u2615\ufe0f\ud83d\udd1bTTV", "screen_name": "TheAdamHawk", "location": "Pitt\u2708\ufe0fLA / Subscribe \u2b07\ufe0f", "url": "https://www.youtube.com/nerdybit?sub_confirmation=1", "description": "I'm an Idea Guy. Internet Personality. Coffee Addict. \ud83d\udc31 Cant Sleep? Get In here http://twitch.tv/theadamhawk \ud83d\udc31 @MLC_Gaming_", "translator_type": "none", "protected": false, "verified
+    ```
 
 an example of a non complete tweet, delete.
 
